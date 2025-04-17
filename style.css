@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  color: #222;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+.hero {
+  background-color: #2e8b57;
+  color: white;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1rem;
+  border: 3px solid white;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+section {
+  padding: 2rem 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.resume-button {
+  display: inline-block;
+  margin-top: 1rem;
+  background-color: #2e8b57;
+  color: white;
+  padding: 0.7rem 1.2rem;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+.experience-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: space-around;
+}
+
+.exp-card {
+  background-color: white;
+  border-radius: 6px;
+  padding: 1rem;
+  max-width: 300px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+.exp-card img {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+
+.contact {
+  background-color: #e0e0e0;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.contact a {
+  color: #2e8b57;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .experience-columns {
+    flex-direction: column;
+    align-items: center;
+  }
+}
