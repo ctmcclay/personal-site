@@ -3,7 +3,7 @@
 This is the source code for my personal portfolio website, built as a single-page site and hosted with GitHub Pages.
 
 ## 🌐 Live Site
-[charliemcclay.com](https://charliemcclay.com) *(replace with your actual custom domain once connected)*  
+[charliemcclay.com](https://charliemcclay.com) 
 Or visit via GitHub Pages: [ctmcclay.github.io](https://ctmcclay.github.io)
 
 ## 📄 About This Site
