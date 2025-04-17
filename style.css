@@ -51,7 +51,10 @@ section {
 }
 
 .about {
-  text-align: center;
+  padding: 2rem 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  /* text-align: center; ← remove or comment this out */
 }
 
 .experience-columns {
