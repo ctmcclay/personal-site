@@ -4,7 +4,7 @@ This is the source code for my personal portfolio website, built as a single-pag
 
 ## 🌐 Live Site
 [charliemcclay.com](https://charliemcclay.com) *(replace with your actual custom domain once connected)*  
-Or visit via GitHub Pages: [yourusername.github.io](https://yourusername.github.io)
+Or visit via GitHub Pages: [ctmcclay.github.io](https://ctmcclay.github.io)
 
 ## 📄 About This Site
 
