@@ -57,6 +57,11 @@ section {
   /* text-align: center; ← remove or comment this out */
 }
 
+.button-container {
+  text-align: center;
+  margin-top: 1rem;
+}
+
 .experience-columns {
   display: flex;
   gap: 1rem; /* Reduced spacing */
